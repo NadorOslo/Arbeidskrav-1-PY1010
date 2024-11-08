@@ -4,7 +4,7 @@ Arbeidskrav 1
 
 Mostafa Benmoussa
 
-13.02.2022
+08.11.2024
 """
 
 Antallkm = 10000 
